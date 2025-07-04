@@ -109,3 +109,5 @@ To access darknet markets, use the official `.onion` URLs. Be vigilant about the
 Cryptocurrency payments are integral to darknet market transactions. By following these guidelines, you can conduct secure, anonymous transactions on these platforms. Always prioritize security and verify all information.
 
 Plase contribute and add stars to this repo.
+
+Update:  07/04/2025 04-43 Updated contributor profile links
